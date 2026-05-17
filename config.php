@@ -14,7 +14,7 @@ if (PHP_SAPI === 'cli' || $_SERVER['HTTP_HOST'] === 'localhost' || $_SERVER['HTT
     define('SITE_URL', 'http://localhost/Ecom edge');
 } else {
     // PRODUCTION (InfinityFree) Settings
-    define('DB_HOST', 'sql204.infinityfree.com');
+    define('DB_HOST', 'localhost');
     define('DB_USER', 'u938366168_abc');
     define('DB_PASS', '7!sq:X&F85B');
     define('DB_NAME', 'u938366168_abc');
