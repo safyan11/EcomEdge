@@ -15,10 +15,10 @@ if (PHP_SAPI === 'cli' || $_SERVER['HTTP_HOST'] === 'localhost' || $_SERVER['HTT
 } else {
     // PRODUCTION (InfinityFree) Settings
     define('DB_HOST', 'sql204.infinityfree.com');
-    define('DB_USER', 'if0_41908098');
-    define('DB_PASS', 'safyan4236960');
-    define('DB_NAME', 'if0_41908098_ecomedge_db');
-    define('SITE_URL', 'http://ecomedge.rf.gd');
+    define('DB_USER', 'u938366168_abc');
+    define('DB_PASS', '7!sq:X&F85B');
+    define('DB_NAME', 'u938366168_abc');
+    define('SITE_URL', 'https://alibabaclothing.online/');
 }
 define('SITE_NAME', 'Ecomedge');
 
